@@ -7,10 +7,6 @@
 
 # JavaScript
 
-# NodeJs
-
-# Applet（小程序）
-
 # [Framework 框架](Framework/README.md)
 ## Angular
 ## React
