@@ -17,3 +17,8 @@
 ```md
 用于流数据的JavaScript图表库。
 ```
+
+
+## Reference
+
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
