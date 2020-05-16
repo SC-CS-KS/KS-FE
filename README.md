@@ -1,6 +1,4 @@
-# FE (Front End)
-
-Table of Contents
+FE (Front End)
 =================
 
    * [<a href="HTML/README.md">HTML</a>](#html)
