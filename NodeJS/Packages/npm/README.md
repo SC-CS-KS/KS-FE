@@ -25,7 +25,8 @@ npm run build:prod
 	打包生成静态文件
 ```
 
-### 安装模块
+### 安装模块  
+
 ```bash
 npm install -g nrm  # 利用npm安装全局模块
 npm install nrm # 安装但不写入package.json
@@ -33,7 +34,8 @@ npm install nrm –save # 安装并写入package.json的”dependencies”中
 npm install nrm –save-dev # 安装并写入package.json的”devDependencies”中
 ```
 
-### 卸载模块
+### 卸载模块  
+
 ```bash
 npm uninstall lodash  # 卸载 lodash 模块
 npm uninstall lodash --save # 卸载模块的同时删除在 package.json 文件中的记录

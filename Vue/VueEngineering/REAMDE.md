@@ -1,8 +1,9 @@
 # 工程
 
 
-## 目录结构
-```text
+## 目录结构  
+
+```
 |-- dist 打包后的vue版本
 |-- flow 类型检测，3.0换了typeScript
 |-- script 构建不同版本vue的相关配置
